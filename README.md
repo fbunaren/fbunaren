@@ -36,7 +36,7 @@ My Personal Website: [https://bunaren.com](https://bunaren.com)
 
 <img src="https://komarev.com/ghpvc/?username=fbunaren" alt="fbunaren">
 
+<img src="http://image.devs.id/image/devsid-badge.jpg" alt="Free Domain devs.id">
+
 ![fbunaren's GitHub stats](https://github-readme-stats.vercel.app/api?username=fbunaren&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fbunaren&layout=compact)](https://github.com/fbunaren/github-readme-stats)
-
-[![Free Domain devs.id](http://image.devs.id/image/devsid-badge.jpg)]
