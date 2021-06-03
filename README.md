@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me
 Currently, I am a third-year double degree student at the University of Queensland and University of Indonesia. 
-I am interested to learn more about Software Engineerning, Data Science, and Cyber Security. 
+I am interested to learn more about Software Engineering, Data Science, and Cyber Security. 
 
 My Personal Website: [https://bunaren.com](https://bunaren.com)
 
